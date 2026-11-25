@@ -1,0 +1,6 @@
+# This addin, for the shared installer in mpc-vst-plugins (tools/release/addin; the keys are in its docs/ADDINS.md).
+ADDIN_ID=sample-kitload
+ADDIN_NAME="MPC Sample kit load addin"
+ADDIN_SO=mpc_sample_kitload.so
+ADDIN_CONF=mpc_sample_kitload.conf
+ADDIN_DONE="B3 Load Kit now shows the KITLOAD page: map kit banks onto your banks and press LOAD to change only those, ALL for the whole kit as before, or CANCEL. ASK OFF (the page, from RACK's page list) turns it off. MPC Sample firmware 1.4.0 only."
